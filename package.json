@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "dependencies": {
+        "@tensorflow/tfjs": "^4.11.0",
+        "@tensorflow/tfjs-node": "^4.11.0",
+        "jsonlines": "^0.1.1",
+        "ntqdm": "^1.0.0"
+    }
+}
